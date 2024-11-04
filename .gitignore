@@ -45,3 +45,6 @@ coverage.xml
 data/
 doc-index-64.faiss
 
+# Large model files
+minio/data-models/word-vector-embeddings.model
+minio/data-models/training-with-tokens.parquet
